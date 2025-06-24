@@ -1,3 +1,5 @@
+# 🧰 Offensive Python Toolkit
+
 > A modular command-line toolkit for cybersecurity testing, ethical demos, and automation — built entirely in Python.
 
 ## 📌 Description
@@ -75,9 +77,9 @@ You can use:
 ## 📂 File Structure
 
 ```
-offensive_toolkit.py       # Main script
-README.md                  # Project documentation
-wordlists/                 # (Optional) Password or subdomain lists
+offensive_toolkit.py       
+README.md                  
+             
 ```
 
 ---
